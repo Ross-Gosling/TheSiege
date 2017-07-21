@@ -1,0 +1,10 @@
+name: Siege_Lords
+main: me.x3DGosling.Siege_Lords.Main
+version: 1.0
+permission-message: You don't have permission to use this.
+commands:
+#============
+  banish:
+  unbanish:
+  captain:
+#============

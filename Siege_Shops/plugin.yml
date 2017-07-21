@@ -1,0 +1,8 @@
+name: Siege_Shops
+main: me.x3DGosling.Siege_Shops.Main
+version: 1.0
+permission-message: You don't have permission to use this.
+commands:
+#============
+  trader:
+#============

@@ -1,0 +1,5 @@
+name: Siege_Horses
+main: me.x3DGosling.Siege_Horses.Main
+version: 1.0
+permission-message: You don't have permission to use this.
+commands:

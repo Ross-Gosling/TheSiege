@@ -1,0 +1,9 @@
+name: Siege_Info
+main: me.x3DGosling.Siege_Info.Main
+version: 1.0
+permission-message: You don't have permission to use this.
+commands:
+#============
+  help:
+  rules:
+#============

@@ -1,0 +1,202 @@
+# Gosling Configuration File
+
+# Server name 
+Server_Name: The Siege
+
+# World spawn point
+World_SpawnCoords: 0 0 0 0 0
+
+# Capture rate of points
+# Throne is out of 32
+CaptureRate_Throne: 0
+# Town is out of 20
+CaptureRate_City: 0
+# Fort is out of 32
+CaptureRate_Fort: 0
+
+# Chat Range
+Chat-Range: 0.0
+
+# Ore Respawn Times (minutes)
+OreRespawn:
+    Coal: 0
+    Iron: 0
+    Gold: 0
+    Diamond: 0
+
+# Knockback Protection Radius
+SpawnProtectRadius: 8
+CastleSpawnProtectRadius: 5
+
+# Faction spawn points
+Emberstone_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Mykonos_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Summerhold_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Icarus_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+
+# Faction Castle spawn points, for when the city is invaded
+Emberstone_Castle_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Mykonos_Castle_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Summerhold_Castle_SpawnCoords:
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+Icarus_Castle_SpawnCoords: 
+    X: 0
+    Y: 0
+    Z: 0
+    R1: 0
+    R2: 0
+
+# Capture point cooldown time (minutes)
+# Set between 1 and 999 minutes
+Throne_CooldownTime: 0
+City_CooldownTime: 0
+Fort_CooldownTime: 0
+
+LandmarkCoords:
+    DiamondMine: 0 0 0 0 0
+    IronMine01: 0 0 0 0 0
+    IronMine02: 0 0 0 0 0
+
+# Join sign locations
+Signs:
+    Ross:
+        X: 0
+        Y: 0
+        Z: 0
+    Lewis:
+        X: 0
+        Y: 0
+        Z: 0
+    Alex:
+        X: 0
+        Y: 0
+        Z: 0
+    Curtis:
+        X: 0
+        Y: 0
+        Z: 0
+
+# Status of server capture points
+Neutral:
+    EasternFortress:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    WesternFortress:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+Emberstone:
+    Throne:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapA:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapB:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+Mykonos:
+    Throne:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapA:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapB:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+Summerhold:
+    Throne:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapA:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapB:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+Icarus:
+    Throne:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapA:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0
+    CapB:
+        #Capture point coords
+        Coords:
+            CoordsX: 0
+            CoordsY: 0
+            CoordsZ: 0

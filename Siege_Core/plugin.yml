@@ -1,0 +1,24 @@
+name: Siege_Core
+main: me.x3DGosling.Siege_Core.Main
+version: 1.0
+loadbefore: [Siege_CaptureSystem, Siege_ChatSystem, Siege_Horses, Siege_Info, Siege_InventorySystem, Siege_Lords, Siege_Mobs, Siege_Shops, Siege_SpawnProtection, Siege_Teleports]
+permission-message: You don't have permission to use this.
+commands:
+#============
+  build:
+  play:
+#============
+  item:
+  reward:
+#============
+  leave:
+  confirm:
+  return:
+#============
+  sun:
+  storm:
+  day:
+  night:
+#============
+  testmode:
+#============
